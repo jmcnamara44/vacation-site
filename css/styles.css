@@ -2,3 +2,7 @@ img {
   float: right;
   width: 35%;
 }
+
+#package {
+  text-align: center;
+}
